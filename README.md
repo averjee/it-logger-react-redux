@@ -12,7 +12,7 @@ Inside cloned directory run: <br>
 
 `npm install` <br>
 `npm run dev` <br><br>
-Runs the app with the backend JSON-Server<br>
-Open [http://localhost:3000](http://localhost:3000)
-Server [http://localhost:5000](http://localhost:5000)
-db.json contains data
+Runs the app with the backend JSON-Server (db.json) with following endpoints:<br>
+http://localhost:5000/logs <br>
+http://localhost:5000/techs
+

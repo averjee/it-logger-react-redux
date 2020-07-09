@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 3,
+      "message": "1122 wireless downs",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-07-09T09:38:44.765Z"
+    },
+    {
+      "id": 6,
+      "message": "aaa",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-07-09T09:38:38.995Z"
+    },
+    {
+      "id": 7,
+      "message": "ffaaa",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-07-09T09:39:01.775Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
